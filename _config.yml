@@ -3,6 +3,7 @@ title: Pablo Osorio
 description: Mathematical engineer, person.
 
 avatar: "/images/layout/perfil.jpeg"
-# footer-links:
-#   github: NumberPiOso
-#   linkedin:
+
+footer-links:
+  github: NumberPiOso
+  linkedin: pablo-osorio-lopez
