@@ -22,10 +22,10 @@ title: Pablo Osorio
 email: osoriopabl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mathematical engineer, person.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Pol67586325
+github_username:  NumberPiOso
 
 # Build settings
 # theme: minima
