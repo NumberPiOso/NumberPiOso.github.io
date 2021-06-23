@@ -32,6 +32,7 @@ github_username:  NumberPiOso
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 
 avatar: "/images/layout/perfil.jpeg"
