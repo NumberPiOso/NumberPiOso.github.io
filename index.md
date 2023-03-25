@@ -15,14 +15,14 @@
 
 
 I am a **data scientist** who loves equally software development
-and data analysis (I can doubts from time to time).  
+and data analysis (I can doubts from time to time).
 
 I aim for **continuous learning** and love to try new
 yet unfinished things, create a github repository
-and feeling the power.  
+and feeling the power.
 
 I love the **beautiful code** idea in general, testing and well documented
-software.  
+software.
 
 **Linux** is my prefered working environment by far partly because
 it is lighweight, customizable and secure but mostly I really love that it is
