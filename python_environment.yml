@@ -1,0 +1,8 @@
+name: env-name
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.0
+  - pip
+  - conda-forge::pre-commit=3.2.0
