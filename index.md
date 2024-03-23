@@ -13,9 +13,8 @@
     }
 </style>
 
-
 I am a **data scientist** who loves equally software development
-and data analysis (I can doubts from time to time).
+and data analysis.
 
 I aim for **continuous learning** and love to try new
 yet unfinished things, create a github repository
@@ -28,6 +27,5 @@ software.
 it is lighweight, customizable and secure but mostly I really love that it is
 free and **open source**. I have participated in some open source projects
 myself but I would really like to thrive a lot more into this.
-
 
 ![Pablo lindo](./images/layout/perfil.jpeg){: .center-image }
